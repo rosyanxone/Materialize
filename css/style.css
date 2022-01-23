@@ -22,3 +22,8 @@ section,
 footer {
     padding: 20px 0;
 }
+
+footer a,
+footer i {
+    color: rgb(2, 2, 126);
+}
